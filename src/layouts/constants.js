@@ -1,0 +1,1 @@
+export const MTB_APP_LANDING = 'MTB_APP_LANDING';

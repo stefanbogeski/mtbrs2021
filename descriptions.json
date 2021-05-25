@@ -1,0 +1,323 @@
+{
+    "howtostart": {
+        "saved": "After pressing ‘New exam’, you will need your exam reference number and candidate date of birth. After this, you will be given information on how to conduct the exam before the recording begins. There is the option to cancel the recording and start again.",
+        "submitted": "Your submitted exams will appear here."
+    },
+    "startexam": "Your exam reference can be found on the exam front cover or on the email you received for the exam entry.",
+    "confirmdetail": "Please carefully review all the exam details below.",
+    "frontcover": {
+        "audio": "Both the teacher and candidate will need to read out their respective verification statements on the exam recording at the end of the exam.",
+        "normal": "Please ensure you have the exam front cover in front of you during the exam, either digitally or physically. The front cover provides a checklist of what you should have with you and explains how to conduct the exam."
+    },
+    "airplanemode": "IMPORTANT* Please ensure to turn on ‘airplane’ mode before starting the exam as an incoming call can disturb and in some cases cut off and end the exam recording prematurely.",
+    "battery": "Please ensure you have sufficient battery remaining on your device to complete the exam recording. We recommend ensuring your device is either plugged into a charger or has at least 50% battery remaining to ensure the recording is not cut off.",
+    "availablestorage": "Please ensure you have at least 300mb of available space on your device.",
+    "mtbexamsrecordingadvice": [
+        {
+            "type": 0,
+            "msg": "The recording location and device"
+        },
+        {
+            "type": 0,
+            "msg": "MTB Exams are designed to be flexible and accessible. This means you can take your exam in a multitude of environments. There are some conditions to consider however:"
+        },
+        {
+            "type": 1,
+            "msg": "There should be minimal background noise. Recording an exam outside is not suitable."
+        },
+        {
+            "type": 1,
+            "msg": "Before starting the exam recording, make sure yourself or your teacher uses our video and audio (depending on your allocation) testing features, built into the MTB app, to ensure clear video lighting or audio levels. There should be no distortion (see our tips below)."
+        },
+        {
+            "type": 1,
+            "msg": "Ensure your device is fully charged and has an internet connection available for uploading."
+        },
+        {
+            "type": 0,
+            "msg": "Adjusting audio and video position:"
+        },
+        {
+            "type": 0,
+            "msg": "Audio:"
+        },
+        {
+            "type": 1,
+            "msg": "Moving your device to a different location can help with audio distortion. Try adjusting the range from the instrument, moving a couple of feet away at a time until you find a balance of instrument clarity and volume."
+        },
+        {
+            "type": 0,
+            "msg": "Video:"
+        },
+        {
+            "type": 1,
+            "msg": "The exam venue you choose must be well lit and the examiner must be able to clearly see the whole of the candidate playing and their instrument. If the size of the room is limited then the examiner must see at least the hands, face and instrument."
+        },
+        {
+            "type": 1,
+            "msg": "Candidates may stand or sit for their performance."
+        },
+        {
+            "type": 1,
+            "msg": "There should be no obstructions between you and the camera."
+        },
+        {
+            "type": 1,
+            "msg": "The candidate should not have their back to the camera."
+        },
+        {
+            "type": 1,
+            "msg": "Tripods and stands will enable you to obtain the best viewing angles, but they are not compulsory. Good viewing angles can still be achieved by placing your device side on, on a stable surface facing the candidate."
+        },
+        {
+            "type": 1,
+            "msg": "Both portrait and landscape mode are acceptable for submission."
+        },
+        {
+            "type": 1,
+            "msg": "Consideration should be given to the placement of the music stand so that it does not obscure the performer."
+        },
+        {
+            "type": 1,
+            "msg": "A third party is allowed to film the exam by holding the device, however the phone must be kept still, and the microphone must not be covered throughout the duration of the exam. This option is less suitable for the higher grades, as these are often quite lengthy exams. Footage that is shaky or consistently moves to such an extent that it is unable to be examined will not be accepted."
+        },
+        {
+            "type": 0,
+            "msg": "Instrument specific video guidance:"
+        },
+        {
+            "type": 0,
+            "msg": "Piano & Keyboard:"
+        },
+        {
+            "type": 1,
+            "msg": "When recording a piano exam, the camera should be to the side, so that the keys and the candidates face, and hands are visible."
+        },
+        {
+            "type": 0,
+            "msg": "Drum kit:"
+        },
+        {
+            "type": 1,
+            "msg": "Whilst sitting on your stool, the entire candidate should be visible. The camera should be placed at eye level to the side so that the hands and feet can be seen clearly. The device should be placed a reasonable distance from the drum kit to avoid sound distortion."
+        },
+        {
+            "type": 0,
+            "msg": "After the recording ends:"
+        },
+        {
+            "type": 0,
+            "msg": "When your recording has ended you will have an opportunity to review your exam. At this point, you can decide whether to keep the recording, or whether to restart. Once you have saved the recording you should:"
+        },
+        {
+            "type": 1,
+            "msg": "Take pictures of all sheet music and provide the piece names. This can be done when submitting on either the website or the app."
+        },
+        {
+            "type": 1,
+            "msg": "If conducting a video exam, the candidates photo ID must be submitted. Again, this can be done when submitting on either the website or the app."
+        },
+        {
+            "type": 2,
+            "msg": "Valid forms of ID include a passport, driver’s license or national identity card. If the candidate is unable to provide one of these forms of identification, you must contact enquiries@mtbexams.com and we will advise you on how to complete the verification. In this instance, you must save the exam for later and contact MTB before submitting."
+        },
+        {
+            "type": 0,
+            "msg": "Important notes:"
+        },
+        {
+            "type": 0,
+            "msg": "You must read this section carefully, as failure to comply with the bullet points below could lead to delays in processing your examination or possible penalties or disqualification."
+        },
+        {
+            "type": 1,
+            "msg": "You must complete your exam recording in one session. If you are using the MTB app, there is the option to add additional clips should your exam be interrupted. If the recording ends suddenly and you do not wish to restart the entire exam, you can add an additional clip and pick up from where you left off."
+        },
+        {
+            "type": 2,
+            "msg": "This feature is designed to accommodate accidental or unavoidable interruptions and should not be used to stop the exam for any other reason. It can also be used should you forget to read out the verification statement from your front cover during the examination."
+        },
+        {
+            "type": 1,
+            "msg": "If you are submitting your recording through the MTB website, you may only film/record it in one session and are not allowed to upload additional clips. Any pre- or post-production editing is forbidden and can lead to disqualification."
+        },
+        {
+            "type": 1,
+            "msg": "When completing scales from memory in a video exam, you must remove any sheet music from in front of you and demonstrate to the examiner you are performing from memory. You may, however, have the front cover and a list of the scales visible to guide you through this section. You are only allowed the titles of the scales. If using a sheet with a list of scales please hold this up to the camera before this section."
+        },
+        {
+            "type": 2,
+            "msg": "If your exam is being conducted with your teacher, they can guide you through this section using the front cover and scales & arpeggios list."
+        },
+        {
+            "type": 0,
+            "msg": "The role of a third party:"
+        },
+        {
+            "type": 1,
+            "msg": "If you are conducting this exam by yourself, either because you are a self-learner or your teacher is not present, you may have a third-party present during the recording. If it is a teacher conducted exam they are not classed as a third party."
+        },
+        {
+            "type": 1,
+            "msg": "Third parties are permitted to assist you with a limited set of roles you will need to complete the exam. The third-party may:"
+        },
+        {
+            "type": 2,
+            "msg": "Turn the pages on your sheet music"
+        },
+        {
+            "type": 2,
+            "msg": "Provide accompaniment"
+        },
+        {
+            "type": 2,
+            "msg": "Assist with the technology for the exam – either its recording or the playing of recorded accompaniments"
+        },
+        {
+            "type": 2,
+            "msg": "Hold the device to record the examination"
+        },
+        {
+            "type": 1,
+            "msg": "The third-party is not allowed to give you any prompts, such as verbal or non-verbal cues regarding timing or tempo. If this occurs penalties may be applied, or the exam may be disqualified."
+        },
+        {
+            "type": 0,
+            "msg": "Performance exam specific consideration:"
+        },
+        {
+            "type": 0,
+            "msg": "If taking a performance exam, please consider the following:"
+        },
+        {
+            "type": 1,
+            "msg": "A performance exam is designed to assess a recital, including your stage presence, fluidity of performance and verbal/non-verbal communication with your audience/examiner. Audiences are optional for performance grades and can comprise any number of people."
+        },
+        {
+            "type": 1,
+            "msg": "As such, you may want to consider setting up a wider view-angle of the candidate. This can be between 1-5 metres distance from the camera, dependent on your venue (the higher end of 5 metres for use during a stage performance)."
+        },
+        {
+            "type": 0,
+            "msg": "How we store your exam data:"
+        },
+        {
+            "type": 1,
+            "msg": "We will keep your exam media files for 12 months after the date of submission, at which point the exam media files will be deleted. We will archive and keep a record of your exam details and your results indefinitely so that we can reissue certificates should they be needed."
+        }
+    ],
+    "recordingadvice": {
+        "video": [
+            {
+                "item": "Please note this is a video recording (not audio)"
+            },
+            {
+                "item": "If this exam is being conducted over webcam then please ensure it is recorded in the room with the candidate playing instrument and not by the teacher on the other side of the webcam. This ensures the quality of the recording is sufficient for assessment purposes."
+            },
+            {
+                "item": "Please note the following guidance for this video recording (further guidance can be found on the MTB website): ",
+                "children": [
+                    "Your device must be placed on a stable surface, with the camera facing the candidate. You should aim to keep this at head height. If you have a tripod or stand, this will help keep your phone steady.",
+                    "You will need to ensure that the candidate can be seen and heard. The device should be within 1 – 5 metres of the candidate (with the higher end of 5 metres being needed for a stage performance). You should also ensure that the microphone is not covered.",
+                    "The examiner must be able to see the instrument and the students face.",
+                    "There must be adequate ambient or natural light and the candidate should not stand in front of a light source."
+                ]
+            },
+            {
+                "item": "Please do not manually lock your phone or leave the app during the recording. If this happens, immediately return to the app and it should save your recording and take you to the recording review screen where you can add another clip to continue the exam.  "
+            },
+            {
+                "item": "Once you press ‘Check recording levels’ there will be a short recording period within which to play something on the instrument and for the candidate to speak. You will then be able to watch this played back."
+            },
+            {
+                "item": "Please ensure you can see/hear the instrument and candidate clearly on the video recording. If you cannot, please repeat the sample recording process until you can."
+            }
+        ],
+        "audio": [
+            {
+                "item": "Please note this is an audio recording (not video)."
+            },
+            {
+                "item": "If this exam is being conducted over webcam then please ensure it is recorded in the room with the candidate playing the instrument and not by the teacher on the other side of the webcam. This ensures the quality of the recording is sufficient for assessment purposes."
+            },
+            {
+                "item": "We recommend placing your phone/tablet on a secure surface within 1-4 metres of the instrument while conducting the exam."
+            },
+            {
+                "item": "Important* Please do not manually lock your phone during the recording. If this happens, immediately unlock the device to continue the exam. The exam recording ends automatically after 1 minute on a locked screen."
+            },
+            {
+                "item": "Once you press 'Check recording levels' there will be a short recording period within which to play something on the instrument and for the teacher to speak. You will then be able to listen to this played back."
+            },
+            {
+                "item": "Please ensure you can hear the instrument and teacher clearly on the sample recording. If you cannot, please repeat the sample recording process until you can."
+            },
+            {
+                "item": "Please note failing to provide a recording that can be heard sufficiently may require you to retake the exam."
+            }
+        ]
+    },
+    "startingexam": [
+        "Please note that once the exam is started it must be completed in one single recording and it cannot be paused.",
+        "There is the option to add an additional clip should the recording be ended prematurely, or something missed from the exam.  Any additional clips should be recorded during the exam session and there should not be a lengthy pause before the exam is resumed. Recordings are timestamped and exams that are not recorded in a single session will not be accepted.",
+        "If necessary, the exam recording can be deleted and started again at any point before final submission.",
+        "If the exam is conducted over webcam and the duet option has been selected we recommend using a recorded backing track for the teacher's part played on a separate audio device, not on the device recording the exam."
+    ],
+    "pictureconfirmation": {
+        "video": "Please see below all the information required to upload your ID and sheet music.",
+        "audio": "Please see below all the information required to upload your sheet music."
+    },
+    "howuploadid": "Please consider the following guidance when uploading a photo ID:",
+    "howuploadidcontent": [
+        "Acceptable forms of ID include a driver’s license, passport or national identity card. There must be an image of the candidates face on the document.",
+        "Place the ID on a flat surface.",
+        "Use natural or sufficient ambient lighting to take the photo – do not use flash.",
+        "Take the photo as level to the ID as possible, being careful to avoid your shadow blocking the ID.",
+        "Ensure that all 4 corners of the ID are in frame and that the image is not blurry."
+    ],
+    "howtouploadmusic": "Please consider the following guidance when uploading images of sheet music:",
+    "howtouploadmusiccontent": [
+        "Please ensure the music is clearly legible in the photo, illegible music will delay the processing of your exam.",
+        "Place the sheet music on flat surface.",
+        "Flash is acceptable to use for non-glossy paper.",
+        "Take the photo as level to the music as possible, being careful to avoid your shadow blocking the music.",
+        "Ensure that all 4 corners of the music are in frame and that the image is not blurry.",
+        "Pieces from MTB books or Tomplay material on the MTB syllabus do not need to be uploaded.  All other MTB syllabus & free choice pieces should have the music uploaded in the appropriate piece section below."
+    ],
+    "videoplayback": "Review your video and check that the piece has been recorded correctly.",
+    "confirmsubmission": "Please verify and confirm below to complete your exam submission.",
+    "uploading": "Please do not exit the app while the exam is submitting.",
+    "uploadingfail": "There's been issue with uploading your exam. Please check your internet connection and try again.",
+    "uploadingfinished": "",
+    "audioplayback": "Review your audio recordings and check that the piece has been recorded correctly.",
+    "takingtheexam1": "MTB Exams are recorded via audio and overseen by the teacher, therefore the examination can be taken at any time to suit both teacher and pupil.",
+    "takingtheexam2": "You will need an accompanist (where relevant) and it is acceptable for the teacher to accompany their own student if they would like to do so. Recorded accompaniments may also be used for the exam.",
+    "takingtheexam3": "Before beginning the exam please check you have the following:",
+    "takingtheexam3-": [
+        "A phone/tablet with the MTB App installed",
+        "Your printed exam front cover (received with your exam entry email)",
+        "List of the scales (if relevant)",
+        "Any music you may need in order to deliver the reading and listening skills section of the assessment (if relevant)"
+    ],
+    "takingtheexam4": "If the exam is being conducted by the teacher remotely through webcam please state this at the start of the exam recording.",
+    "howitworks1": "Our exams are recorded via audio in the lesson by the teacher, submitted online and marked by our specialist examiners. Once the result is confirmed a certificate is then awarded.",
+    "bookcodemoreinfo": [
+        {
+            "item": "An MTB publication can only be used for one exam. When purchasing an MTB book you will receive a code which you must enter here. ",
+            "children": [
+                "For digital books the code can be found on the order confirmation email sent after purchase.",
+                "For physical books the code can be found on the book code sticker on the contents page.",
+                "If you have lost your code please enter ‘lost code’ in the box.  (Please note a centre repeatedly using this option may be audited)."
+            ]
+        },
+        {
+            "item": "MTB regularly audit these codes and the usage of MTB published material used by centres/learners in their exams. You may be contracted by the MTB team to ensure MTB content used in the exam has been correctly purchased."
+        }
+    ],
+    "piecemoreinfo": [
+        "Please upload the music for all of the pieces used in your exam.  If you have used 4 or 5 pieces you can add additional pieces using the ‘add piece’ button.",
+        "You also need to provide piece info by selecting one of the required options for each piece:",
+        "Pieces from an MTB published book or from Tomplay (that is listed on the MTB syllabus) do not require copies of the music. All of the other options require a copy of the music to be uploaded.",
+        "Free Choice Pre-Approved refers to having had the piece approved through the optional MTB Free Choice Approval Service."
+    ]
+}

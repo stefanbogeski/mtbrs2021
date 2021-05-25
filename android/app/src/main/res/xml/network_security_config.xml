@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+  <domain-config cleartextTrafficPermitted="true">
+    <domain includeSubdomains="true">178.62.60.224</domain>
+    <domain includeSubdomains="true">oss-eu-west-1.aliyuncs.com</domain>
+  </domain-config>
+</network-security-config>
