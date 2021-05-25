@@ -126,7 +126,7 @@ RCT_EXPORT_METHOD(stopUploading) {
   NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:url];
   request.HTTPMethod = @"PUT";
   request.HTTPBody = JSONData;
-  NSString *authValue = [NSString stringWithFormat:@"Bearer %@", @"5a67ec7d-bfa1-501a-9943-7ce0f2bb089d"];
+  NSString *authValue = [NSString stringWithFormat:@"Bearer %@", @"token"];
   [request setValue:authValue forHTTPHeaderField:@"Authorization"];
   [request setValue:@"application/json" forHTTPHeaderField:@"Content-Type"];
   [request setValue:@"XMLHttpRequest" forHTTPHeaderField:@"X-Requested-With"];

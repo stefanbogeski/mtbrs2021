@@ -257,7 +257,7 @@ public class AliUploading {
                 RequestBody body = RequestBody.create(JSON, examParams);
                 Request request = new Request.Builder()
                         .url("BASE_URL/" + examUUID )
-                        .header("Authorization", "Bearer 5a67ec7d-bfa1-501a-9943-7ce0f2bb089d")
+                        .header("Authorization", "Bearer token")
                         .header("Content-Type", "application/json")
                         .header("X-Requested-With", "XMLHttpRequest")
                         .put(body)
